@@ -7,7 +7,6 @@ Use SQL queries to extract business insights from the cleaned e-commerce dataset
 Tool Used
 MySQL Workbench
 Database
-Database Name: decodelabs_project3
 Table Name: orders
 Records: 1,200 rows
 Columns: 14
